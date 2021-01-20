@@ -1,1 +1,1 @@
-Worker: python rssbot.py
+Worker: python robotrss.py
